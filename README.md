@@ -13,12 +13,6 @@
     <img align="center" alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br />
 
-<div>
-  <a href="https://github.com/DenerBorges">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=DenerBorges&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBorges&layout=compact&langs_count=7&algolia"/>
-</div>
-
 ## 🌐 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-borges-5836ab219)
