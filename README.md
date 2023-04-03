@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/DenerBorges">
-  <img width="380rem" src="https://github-readme-stats.vercel.app/api?username=DenerBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBorges&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="380rem" src="https://github-readme-stats.vercel.app/api?username=DenerBorges&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBorges&layout=compact&langs_count=7"/>
 </div>
 
 ## 🌐 Contato
